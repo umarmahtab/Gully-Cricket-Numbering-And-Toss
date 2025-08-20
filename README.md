@@ -29,6 +29,10 @@ Open index.html in any modern browser (Chrome, Edge, Firefox, etc.)
 Start scoring and toss your coin! 🎉
 
 📸 Preview
+
+Random Number Generator For Numbering in Gully Cricket:
 <img width="1919" height="838" alt="image" src="https://github.com/user-attachments/assets/28c0f12a-208b-46c9-8b42-4414062cd68e" />
+
+Toss a Coin Included:
 <img width="1888" height="836" alt="image" src="https://github.com/user-attachments/assets/c32f3d60-b677-4bed-8be1-f462f0468126" />
 
